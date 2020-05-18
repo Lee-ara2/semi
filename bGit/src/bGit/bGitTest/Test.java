@@ -16,6 +16,8 @@ public class Test {
 		System.out.println("zzzzzzz");
 		
 		System.out.println("dd");
+		
+		System.out.println("BBB");
 
 	}
 
